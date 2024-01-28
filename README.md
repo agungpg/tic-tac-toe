@@ -14,10 +14,3 @@
 - CSS
 - JavaScript
 
-## Catatan
-
-- Tombol "Start" memulai permainan
-- Tombol "Reset Game" akan memulai ulang permainan saat ini tanpa menghapus skor pemain.
-- Tombol "Reset Score" akan mengatur ulang skor dan memulai permainan baru.
-- Tombol "Finish" digunakan untuk mengakhiri permainan dan menentukan pemenang berdasarkan skor pemain.
-
